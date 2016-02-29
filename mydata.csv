@@ -1,0 +1,7 @@
+PatienceID, Case ,Treatment,Admitted_Date,Discharged_Date
+PAT1002, Fever  ,Yes,2012-02-10,2012-03-10
+PAT1023,Ebola  ,No,2012-10-23,2014-10-23
+PAT1003,HIV ,Yes,2014,2014
+PAT1991,Headache,No,2012-03-21,2014
+PAT2028,Epilepsy,Yes,2013,2014-03-11
+PAT2931,Malaria  ,Yes,2016-02-22,2016
